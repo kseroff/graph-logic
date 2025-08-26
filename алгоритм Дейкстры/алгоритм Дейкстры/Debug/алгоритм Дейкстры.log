@@ -1,0 +1,3 @@
+﻿  алгоритм Дейкстры.cpp
+C:\Users\Kseroff\source\repos\алгоритм Дейкстры\алгоритм Дейкстры\алгоритм Дейкстры.cpp(184,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  алгоритм Дейкстры.vcxproj -> C:\Users\Kseroff\source\repos\алгоритм Дейкстры\Debug\алгоритм Дейкстры.exe

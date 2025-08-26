@@ -1,0 +1,4 @@
+﻿  алгорит флойда.cpp
+C:\Users\Kseroff\source\repos\алгорит флойда\алгорит флойда\алгорит флойда.cpp(86,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Kseroff\source\repos\алгорит флойда\алгорит флойда\алгорит флойда.cpp(142,24): warning C4476: "printf": неизвестный символ поля типа "\xd0" в описателе формата
+  алгорит флойда.vcxproj -> C:\Users\Kseroff\source\repos\алгорит флойда\Debug\алгорит флойда.exe

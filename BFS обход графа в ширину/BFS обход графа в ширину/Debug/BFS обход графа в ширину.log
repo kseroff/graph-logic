@@ -1,0 +1,5 @@
+﻿  BFS обход графа в ширину.cpp
+C:\Users\Kseroff\source\repos\BFS обход графа в ширину\BFS обход графа в ширину\BFS обход графа в ширину.cpp(235,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Kseroff\source\repos\BFS обход графа в ширину\BFS обход графа в ширину\BFS обход графа в ширину.cpp(54): warning C4715: MyList<int>::Iterator::operator++: значение возвращается не при всех путях выполнения
+C:\Users\Kseroff\source\repos\BFS обход графа в ширину\BFS обход графа в ширину\BFS обход графа в ширину.cpp(73): warning C4715: MyList<int>::Iterator::operator*: значение возвращается не при всех путях выполнения
+  BFS обход графа в ширину.vcxproj -> C:\Users\Kseroff\source\repos\BFS обход графа в ширину\Debug\BFS обход графа в ширину.exe

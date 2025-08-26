@@ -1,0 +1,3 @@
+﻿  Алгоритм Прима.cpp
+C:\Users\Kseroff\source\repos\Алгоритм Прима\Алгоритм Прима\Алгоритм Прима.cpp(125,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Алгоритм Прима.vcxproj -> C:\Users\Kseroff\source\repos\Алгоритм Прима\Debug\Алгоритм Прима.exe
