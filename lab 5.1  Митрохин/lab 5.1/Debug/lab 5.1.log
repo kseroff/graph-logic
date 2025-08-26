@@ -1,0 +1,7 @@
+﻿  lab 5.1.cpp
+C:\Users\Kseroff\source\repos\lab 5.1\lab 5.1\lab 5.1.cpp(102,32): warning C4804: >: небезопасное использование типа "bool" в операции
+C:\Users\Kseroff\source\repos\lab 5.1\lab 5.1\lab 5.1.cpp(103,51): warning C4804: >: небезопасное использование типа "bool" в операции
+C:\Users\Kseroff\source\repos\lab 5.1\lab 5.1\lab 5.1.cpp(106,32): warning C4804: >: небезопасное использование типа "bool" в операции
+C:\Users\Kseroff\source\repos\lab 5.1\lab 5.1\lab 5.1.cpp(107,51): warning C4804: >: небезопасное использование типа "bool" в операции
+C:\Users\Kseroff\source\repos\lab 5.1\lab 5.1\lab 5.1.cpp(223,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab 5.1.vcxproj -> C:\Users\Kseroff\source\repos\lab 5.1\Debug\lab 5.1.exe
